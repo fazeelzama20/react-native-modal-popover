@@ -17,9 +17,15 @@ Previously (version `0.0.6`) this module required react version `>16.2.0` to wor
 Version `0.0.7` does not reqire `React.Fragment` anymore, so you can use with reasonably old versions of react and react-native.
 
 ## Install
+using yarn
 ```sh
 yarn add react-native-modal-popover
 ```
+using npm 
+```
+npm install react-native-modal-popover
+```
+
 
 ## Usage
 
